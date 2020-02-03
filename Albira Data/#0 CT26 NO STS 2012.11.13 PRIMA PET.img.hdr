@@ -1,0 +1,692 @@
+#
+# Header file
+version 1.530
+#
+model Albira
+#
+institution GEM_IMG
+#
+study Unknown
+#
+file_name #0 CT26 NO STS 2012.11.13 PRIMA PET.img
+#
+file_type 5
+#
+acquisition_mode 3
+#
+total_frames 28
+#
+isotope Unknown
+#
+isotope_half_life 0.000000e+000
+#
+isotope_branching_fraction 1
+#
+axial_crystal_pitch 0.1
+#
+data_type 4
+#
+data_order 1
+#
+number_of_dimensions 3
+#
+x_dimension 80
+#
+y_dimension 80
+#
+z_dimension 100
+#
+w_dimension 1
+#
+x_filter 0
+#
+y_filter 0
+#
+z_filter 0
+#
+recon_algorithm 0
+#
+decay_correction_applied 0
+#
+pixel_size 1.000
+#
+pixel_size_x 1.000
+#
+pixel_size_y 1.000
+#
+pixel_size_z 0.944
+#
+calibration_factor 1
+#
+dose_units 2
+#
+dose 0
+#
+injection_decay_correction 1
+#
+gate_inputs 0
+#
+subject_weight_units 3
+#
+subject_weight 0
+#
+subject_orientation 0
+#
+end_of_header
+#
+frame 0
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 0
+#
+frame_start 0
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 1
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 2560000
+#
+frame_start 15,00133
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 2
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 5120000
+#
+frame_start 30,00006
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 3
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 7680000
+#
+frame_start 45,00011
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 4
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 10240000
+#
+frame_start 60,00008
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 5
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 12800000
+#
+frame_start 75,00028
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 6
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 15360000
+#
+frame_start 90,0004
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 7
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 17920000
+#
+frame_start 105,0004
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 8
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 20480000
+#
+frame_start 120,0004
+#
+frame_duration 14,99999
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 9
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 23040000
+#
+frame_start 135,0004
+#
+frame_duration 15
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 10
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 25600000
+#
+frame_start 150,0005
+#
+frame_duration 30
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 11
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 28160000
+#
+frame_start 180,0009
+#
+frame_duration 30
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 12
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 30720000
+#
+frame_start 210,0012
+#
+frame_duration 30
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 13
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 33280000
+#
+frame_start 240,0016
+#
+frame_duration 30
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 14
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 35840000
+#
+frame_start 270,0016
+#
+frame_duration 29,88403
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 15
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 38400000
+#
+frame_start 305,3237
+#
+frame_duration 60
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 16
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 40960000
+#
+frame_start 365,3239
+#
+frame_duration 60
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 17
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 43520000
+#
+frame_start 425,324
+#
+frame_duration 60
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 18
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 46080000
+#
+frame_start 485,324
+#
+frame_duration 60
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 19
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 48640000
+#
+frame_start 545,3242
+#
+frame_duration 60
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 20
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 51200000
+#
+frame_start 605,3243
+#
+frame_duration 0,002929688
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 21
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 53760000
+#
+frame_start 611,9423
+#
+frame_duration 150
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 22
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 56320000
+#
+frame_start 761,9424
+#
+frame_duration 149,9976
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 23
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 58880000
+#
+frame_start 917,7808
+#
+frame_duration 299,9969
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 24
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 61440000
+#
+frame_start 1224,041
+#
+frame_duration 299,5455
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 25
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 64000000
+#
+frame_start 1528,615
+#
+frame_duration 299,9375
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 26
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 66560000
+#
+frame_start 1834,282
+#
+frame_duration 299,9885
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
+frame 27
+#
+event_type 0
+#
+gate 0
+#
+bed 0
+#
+data_file_pointer 69120000
+#
+frame_start 2139,403
+#
+frame_duration 299,8354
+#
+scale_factor 1
+#
+deadtime_correction 1
+#
+decay_correction 1
+#
+end_of_header
+#
